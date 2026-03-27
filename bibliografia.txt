@@ -1,0 +1,9 @@
+1) Circle Packing 
+Link in flourish : https://public.flourish.studio/visualisation/28177313/
+Link data (world_population.csv): https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset?resource=download&select=world_population.csv
+
+2) Linear dendrogram
+Link data (iris.csv): https://gist.github.com/netj/8836201#file-iris-csv
+
+3) Convex Hull
+Link data (wine.csv): https://gist.github.com/tijptjik/9408623#file-wine-csv
